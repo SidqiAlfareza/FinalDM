@@ -1,0 +1,19 @@
+# Core Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Data Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Date/Time Handling
+python-dateutil==2.8.2
+
+# Optional: For better performance
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# Optional: For Jupyter Notebook (jika diperlukan)
+jupyter==1.0.0
+notebook==7.0.6
+ipython==8.18.1
